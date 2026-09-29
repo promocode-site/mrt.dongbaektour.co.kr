@@ -3,8 +3,15 @@
   "siteName": "마이리얼트립 쿠폰",
   "baseUrl": "https://mrt.dongbaektour.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-26",
+  "updated": "2026-09-29",
   "posts": [
+    {
+      "title": "마이리얼트립 쿠폰 최소 결제 금액 조건 정리",
+      "slug": "myrealtrip-coupon-minimum-payment-condition",
+      "date": "2026-09-29",
+      "description": "마이리얼트립 쿠폰의 할인율, 최대 할인 한도, 최소 결제 금액 조건을 정리하고 결제 전 확인할 체크리스트를 안내합니다.",
+      "image": ""
+    },
     {
       "title": "마이리얼트립 투어 할인쿠폰 받고 액티비티&입장권 할인도 가능하게 하는 방법",
       "slug": "myrealtrip-tour-coupon-activity-ticket-discount",
